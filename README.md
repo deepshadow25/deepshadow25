@@ -24,7 +24,7 @@ Mobile: 010-3623-3818
 
 **2. Computer engineering Language** 
 
-- Python, Matlab
+- Python, Matlab, Kotlin(
 
 **3. Graphic**
 
@@ -62,6 +62,8 @@ Mobile: 010-3623-3818
 - 자연어 처리 : 사극 대본 생성 프로그램 만들기
 
 ---
+
+
 
 ## 🏢Career
 
