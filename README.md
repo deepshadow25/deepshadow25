@@ -2,6 +2,8 @@
 
 for Harder, Better, Faster, Stronger life.
 
+Born in Feb. 1994.
+
 ## 📱Contact.
 
 Mobile: 010-3623-3818
