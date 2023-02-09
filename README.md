@@ -10,7 +10,7 @@ Mobile: 010-3623-3818
 
 **Github:** [https://github.com/](https://github.com/deepshadow25)deepshadow25
 
-**Email: deepshadow25@naver.com**
+**Email: deepshadow25@naver.com, deepshadow25@kakao.com**
 
 ## 📜C**ertificate**
 
@@ -24,7 +24,7 @@ Mobile: 010-3623-3818
 
 **2. Computer engineering Language** 
 
-- Python, Matlab, Kotlin(
+- Python, Matlab, Kotlin
 
 **3. Graphic**
 
@@ -52,7 +52,7 @@ Mobile: 010-3623-3818
 
 ### 🖥️  **Main Project**
 
-- 1. OpenCV를 활용한 . 2023.01 ~ 2022.03
+- 1. 택배 불량 패킹 검출 (이상치 탐지) 및 송장 OCR 인식 모델 개발 : 2023.01.02 ~ 2023.02.17
 
 🖱️  **Mini Project**
 
