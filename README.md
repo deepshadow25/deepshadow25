@@ -91,7 +91,7 @@ Mobile: 010-3623-3818
 
 ## 🏢Career
 
-- 2019. 05 ~ 2020. 02 
+-   2019. 05 ~ 2020. 02 
   Baran Middle School at Hwaseong (Subject : Science, Role : Homeroom teacher for 1st grade class 5)
 
 
