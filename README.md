@@ -24,7 +24,8 @@ Mobile: 010-3623-3818
 
 ## **Grade**
 
-- Bachelor Degree : Pusan National University. 물리교육과 (2012.03. ~ 2019.02.)
+- Bachelor Degree 
+  - Pusan National University. 물리교육과 (2012.03. ~ 2019.02.)
 
 - Other Training :
   - Alpaco Deep Learning Boot Camp 4th (2022.10. ~ 2023. 04.)
@@ -90,7 +91,8 @@ Mobile: 010-3623-3818
 
 ## 🏢Career
 
-2019. 05 ~ 2020. 02 Baran Middle School at Hwaseong (Subject : Science, Role : Homeroom teacher for 1st grade class 5)
+- 2019. 05 ~ 2020. 02 
+  Baran Middle School at Hwaseong (Subject : Science, Role : Homeroom teacher for 1st grade class 5)
 
 
 ---
