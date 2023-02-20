@@ -42,7 +42,8 @@ Mobile: 010-3623-3818
 
 **2. Computer engineering Language** 
 
-- Python, Matlab, Kotlin
+- Proficient : Python, Matlab
+- Experienced : Kotlin, R
 
 **3. Graphic**
 
