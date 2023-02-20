@@ -2,7 +2,6 @@
 
 for Harder, Better, Faster, Stronger life.
 
-Born in Feb. 1994.
 
 ## 📱Contact.
 
