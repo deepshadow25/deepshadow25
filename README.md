@@ -94,7 +94,10 @@ Mobile: 010-3623-3818
 
 ## 🏆Aword
 
+- [Kaggle : 1st and Future - Player Contact Detection](https://www.kaggle.com/competitions/nfl-player-contact-detection) : Bronze Medal (61st/939 teams)
+- [Kaggle : Counting and categorizing vehicles in surveillance](https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance) : 1st
 - 
+
 
 ---
 
